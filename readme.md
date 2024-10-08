@@ -67,12 +67,20 @@ Software, libraries and frameworks for development purposes.
 ## Resources
 Interesting resources related to neuroscience.
 
+### Datasets
+- [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+
+### Books
+- ...
+
 ### Ebooks
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
 - [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch) - Open-access electronic textbook that covers computational and theoretical neuroscience. Provided by École Polytechnique Fédérale de Lausanne (EPFL).
 - [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/) - Book companion to [Andy's Brain Blog](https://www.andysbrainblog.com/). Provides an introduction to working in a Unix environment, fMRI analysis, and commonplace neuroimaging tools and topics. 
 - [NiPraxis](https://textbook.nipraxis.org/intro.html) - Textbook for the [NiPraxis course](https://nipraxis.org/), covers fundamental concepts in neuroimaging analysis and how they relate to the wider world of statistics, engineering and computer science. Learn how to work with data and code to get a deeper understanding of how fMRI methods work, how they can fail, how to fix them, and how to develop new methods.
+
+### Podcasts
 
 ### Blogs
 
@@ -83,7 +91,6 @@ Interesting resources related to neuroscience.
 - [Andy's Brain Blog](https://www.andysbrainblog.com/) - A large collection of articles, tutorials, and videos, covering many of the popular neuroimaging tools and methods. 
 
 ### MOOCs
-
 [Massive Open Online Courses (MOOCs)](https://en.wikipedia.org/wiki/Massive_open_online_course) are free Web-based distance learning programs that are designed for the participation of large numbers of geographically dispersed students.
 MOOCs may be patterned on a college or university course or may be less structured.
 
@@ -105,7 +112,6 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [BrainPost](https://www.brainpost.co/) - A mailing list that delivers weekly easy-to-read summaries of the latest neuroscience publications.
 
 ### Miscellaneous
-- [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
@@ -116,14 +122,13 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [NeuroHackademy](https://neurohackademy.org/course_type/lectures/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 
-## Contribute
+<!--## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. -->
 
 
 ## License
 
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [Akash Tandon](https://github.com/analyticalmonk) has waived all copyright and
-related or neighboring rights to this work.
