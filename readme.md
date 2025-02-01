@@ -1,12 +1,18 @@
 <!-- ![Awesome Neuroscience](./AWESOME2.png) -->
 <!--<img src="./AWESOME2.png" width="50%"> -->
 
-> Curated list of awesome neuroscience libraries, software and any content related to the domain.
+> Curated list of awesome computational neuroscience libraries, software and any content related to the domain.
+
+
 
 [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation.
 
+[Computational neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) is an interdisciplinary field that links the diverse fields of neuroscience, cognitive science, and psychology with electrical engineering, computer science, mathematics, and physics. It is an area of study that seeks to understand how the brain computes in order to produce intelligent behavior. Computational neuroscience is distinct from psychological connectionism and from learning theories of disciplines such as machine learning, neural networks, and computational learning theory in that it emphasizes descriptions of functional and biologically realistic neurons (and neural systems) and their physiology and dynamics.
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> [!NOTE]
+> This is direct fork from [analyticalmonk](https://github.com/analyticalmonk/awesome-neuroscience). Most of the content might be same. I will be adding more content to this list.
 
 ## Contents
 
@@ -15,12 +21,20 @@
   - [Matlab](#matlab)
   - [C++](#c)
   - [JavaScript](#javascript)
+  - [R](#r)
+
 - [Resources](#resources)
+  - [Books](#books)
   - [Ebooks](#ebooks)
+  - [Podcasts](#podcasts)
+  - [Datasets](#datasets)
   - [Blogs](#blogs)
-  - [MOOCs](#moocs)
+  - [Tutorial](#tutorial)
+  - [Workshops](#workshops)
+  - [Open Source Online Courses](#moocs)
   - [Communities](#communities)
   - [Newsletters](#newsletters)
+  - [Summerschools](#summerschools)
   - [Miscellaneous](#miscellaneous)
 
 
@@ -71,7 +85,18 @@ Interesting resources related to neuroscience.
 - [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 
 ### Books
-- ...
+
+> [!TIP]
+> Most of these books are not freely available.
+
+- Principles of Neural Science 
+- Theoretical Neuroscience 
+- The Computational Brain
+- Dynamical Systems in Neuroscience
+- [Foundations of mathematical neuroscience](https://neurophysics.ucsd.edu/courses/physics_171/Ermentrout_Therman.pdf)
+- Principles of Computational Modelling in Neuroscience
+- Computational Modelling of the Brain
+- Fundamentals of Computational Neuroscience
 
 ### Ebooks
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
@@ -81,6 +106,8 @@ Interesting resources related to neuroscience.
 - [NiPraxis](https://textbook.nipraxis.org/intro.html) - Textbook for the [NiPraxis course](https://nipraxis.org/), covers fundamental concepts in neuroimaging analysis and how they relate to the wider world of statistics, engineering and computer science. Learn how to work with data and code to get a deeper understanding of how fMRI methods work, how they can fail, how to fix them, and how to develop new methods.
 
 ### Podcasts
+- [Brain inspired](https://braininspired.co/)
+- [Theoretical Neuroscience](https://theoreticalneuroscience.no/)
 
 ### Blogs
 
@@ -107,6 +134,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [neuroimaging@python.org](https://mail.python.org/mailman/listinfo/neuroimaging) - A list for discussion of neuroimaging analysis in Python. Among other things, this list is home to discussions concerning [NiPy](https://nipy.org/) projects (including NiBabel, Nilearn, dipy, MNE-Python, and more).
 
 ### Newsletters
+- [Transmitter](https://www.thetransmitter.org/) - A newsletter that covers the latest neuroscience research and analysis supported by simons foundation.
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 - [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - A mailing list that is is intended to address the broad range of research approaches and issues involved in the general field of computational neuroscience. 
 - [BrainPost](https://www.brainpost.co/) - A mailing list that delivers weekly easy-to-read summaries of the latest neuroscience publications.
