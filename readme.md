@@ -3,13 +3,10 @@
 
 > Curated list of awesome computational neuroscience libraries, software and any content related to the domain.
 
-
-
-[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Computational neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) is an interdisciplinary field that links the diverse fields of neuroscience, cognitive science, and psychology with electrical engineering, computer science, mathematics, and physics. It is an area of study that seeks to understand how the brain computes in order to produce intelligent behavior. Computational neuroscience is distinct from psychological connectionism and from learning theories of disciplines such as machine learning, neural networks, and computational learning theory in that it emphasizes descriptions of functional and biologically realistic neurons (and neural systems) and their physiology and dynamics.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [!NOTE]
 > This is direct fork from [analyticalmonk](https://github.com/analyticalmonk/awesome-neuroscience). Most of the content might be same. I will be adding more content to this list.
@@ -86,7 +83,7 @@ Interesting resources related to neuroscience.
 
 ### Books
 
-> [!TIP]
+> [!NOTE]
 > Most of these books are not freely available.
 
 - Principles of Neural Science 
